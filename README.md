@@ -1,6 +1,6 @@
 # Bank Management System
 
-A straightforward desktop application for managing banking records. Records are saved directly in a binary file (`account.dat`) to streamline data handling and improve efficiency.
+A basic software application for managing banking records. Records are saved directly in a binary file (`account.dat`) to streamline data handling and improve efficiency.
 
 ## Features
 
